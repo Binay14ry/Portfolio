@@ -2,6 +2,7 @@
 
 ### Education
 Masters of Engineering - Telecommunications  2016
+
 Bachelor of Engineering - Electronics & Communication 2011
 
 ### Projects
